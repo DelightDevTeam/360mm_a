@@ -6,7 +6,7 @@
                 ©Copyright <script>
                   document.write(new Date().getFullYear())
                 </script>,
-                All Rights Reserved By <a href="#">BKM9 Slot</a>
+                All Rights Reserved By <a href="#">360MM Slot</a>
                 
               </div>
             </div>
